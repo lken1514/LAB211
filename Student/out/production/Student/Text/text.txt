@@ -1,0 +1,12 @@
+ID=764325;studentName=Pham Ngoc Hoa;Semester=Spring;courseName=Java
+ID=521987;studentName=Do Quang Hiep;Semester=Summer;courseName=.NET
+ID=890213;studentName=Nguyen Xuan Cuong;Semester=Spring;courseName=C/C++
+ID=209875;studentName=Le Trung Kien;Semester=Fall;courseName=.NET
+ID=456789;studentName=Le Quang Thuc;Semester=Fall;courseName=Java
+ID=345612;studentName=Nguyen Van A;Semester=Spring;courseName=C/C++
+ID=987654;studentName=Tran Van B;Semester=Spring;courseName=Java
+ID=132468;studentName=Hoang Khanh Hoa;Semester=Summer;courseName=.NET
+ID=674219;studentName=Truong Tuan Thanh;Semester=Spring;courseName=C/C++
+ID=890765;studentName=Lu Dinh Dung;Semester=Fall;courseName=.NET
+ID=817294;studentName=Pham Quan;Semester=Spring;courseName=.NET
+ID=8517213;studentName=Anh Bui;Semester=Fall;courseName=C/C++
