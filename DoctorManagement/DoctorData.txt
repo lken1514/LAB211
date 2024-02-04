@@ -1,0 +1,3 @@
+docID=1;name=Nghia;specialty=Orthopedics;availability=3
+docID=2;name=Phuong;specialty=Obstetrics;availability=2
+docID=3;name=Lien;specialty=orthodontic;availability=1
